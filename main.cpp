@@ -141,6 +141,11 @@ int main()
 		float cX = depthIntrinsics(0, 2);
 		float cY = depthIntrinsics(1, 2);
 
+		cout << "fx = " << fX << endl;
+		cout << "fy = " << fY << endl;
+		cout << "cx = " << cX << endl;
+		cout << "cy = " << cY << endl;
+
 		// compute inverse depth extrinsics
 		Matrix4f depthExtrinsicsInv = sensor.GetDepthExtrinsics().inverse();		
 		Matrix4f trajectory = sensor.GetTrajectory();

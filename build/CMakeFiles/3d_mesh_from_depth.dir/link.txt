@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/3d_mesh_from_depth.dir/main.cpp.o CMakeFiles/3d_mesh_from_depth.dir/FreeImageHelper.cpp.o  -o 3d_mesh_from_depth  -lfreeimage 

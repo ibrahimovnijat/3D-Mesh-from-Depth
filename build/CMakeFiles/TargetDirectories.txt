@@ -1,3 +1,0 @@
-/home/ibrahimov/Desktop/3D-Mesh-from-Depth/build/CMakeFiles/rebuild_cache.dir
-/home/ibrahimov/Desktop/3D-Mesh-from-Depth/build/CMakeFiles/edit_cache.dir
-/home/ibrahimov/Desktop/3D-Mesh-from-Depth/build/CMakeFiles/3d_mesh_from_depth.dir
